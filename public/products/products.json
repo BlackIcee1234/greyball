@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Leather Wallet",
+    "description": "Handcrafted genuine leather wallet with multiple card slots and bill compartment.",
+    "price": 49.99,
+    "currency": "USD",
+    "image": "leather-wallet.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Wireless Earbuds",
+    "description": "Premium wireless earbuds with noise cancellation and long battery life.",
+    "price": 129.99,
+    "currency": "USD",
+    "image": "wireless-earbuds.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Smart Watch",
+    "description": "Feature-rich smartwatch with health tracking and notifications.",
+    "price": 199.99,
+    "currency": "USD",
+    "image": "smart-watch.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Backpack",
+    "description": "Durable water-resistant backpack with laptop compartment.",
+    "price": 79.99,
+    "currency": "USD",
+    "image": "backpack.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "Coffee Maker",
+    "description": "Programmable coffee maker with thermal carafe.",
+    "price": 89.99,
+    "currency": "USD",
+    "image": "coffee-maker.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "Yoga Mat",
+    "description": "Non-slip eco-friendly yoga mat with carrying strap.",
+    "price": 29.99,
+    "currency": "USD",
+    "image": "yoga-mat.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "title": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness and color temperature.",
+    "price": 39.99,
+    "currency": "USD",
+    "image": "desk-lamp.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "Water Bottle",
+    "description": "Insulated stainless steel water bottle, keeps drinks cold for 24 hours.",
+    "price": 24.99,
+    "currency": "USD",
+    "image": "water-bottle.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "Bluetooth Speaker",
+    "description": "Portable waterproof bluetooth speaker with 20-hour battery life.",
+    "price": 69.99,
+    "currency": "USD",
+    "image": "bluetooth-speaker.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "title": "Plant Pot",
+    "description": "Ceramic plant pot with drainage hole and bamboo tray.",
+    "price": 19.99,
+    "currency": "USD",
+    "image": "plant-pot.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "title": "Gaming Mouse",
+    "description": "Ergonomic gaming mouse with RGB lighting and customizable buttons.",
+    "price": 59.99,
+    "currency": "USD",
+    "image": "gaming-mouse.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "Electric Kettle",
+    "description": "Fast-boil electric kettle with auto shut-off and 1.7L capacity.",
+    "price": 39.99,
+    "currency": "USD",
+    "image": "electric-kettle.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "title": "Fitness Tracker",
+    "description": "Compact fitness tracker with step counter and heart rate monitor.",
+    "price": 79.99,
+    "currency": "USD",
+    "image": "fitness-tracker.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "title": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand with cooling design.",
+    "price": 29.99,
+    "currency": "USD",
+    "image": "laptop-stand.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "title": "Wireless Charger",
+    "description": "Fast wireless charger compatible with multiple devices.",
+    "price": 25.99,
+    "currency": "USD",
+    "image": "wireless-charger.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "title": "Travel Pillow",
+    "description": "Memory foam travel pillow with washable cover and carry bag.",
+    "price": 21.99,
+    "currency": "USD",
+    "image": "travel-pillow.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 17,
+    "title": "Digital Alarm Clock",
+    "description": "LED alarm clock with USB charging and adjustable brightness.",
+    "price": 34.99,
+    "currency": "USD",
+    "image": "digital-alarm-clock.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "title": "Noise Cancelling Headphones",
+    "description": "Over-ear headphones with active noise cancellation and long battery life.",
+    "price": 159.99,
+    "currency": "USD",
+    "image": "noise-cancelling-headphones.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "title": "Portable Projector",
+    "description": "Mini portable projector with HDMI and wireless connectivity.",
+    "price": 199.99,
+    "currency": "USD",
+    "image": "portable-projector.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 20,
+    "title": "Chef Knife",
+    "description": "High-carbon stainless steel chef knife with ergonomic handle.",
+    "price": 49.99,
+    "currency": "USD",
+    "image": "chef-knife.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 21,
+    "title": "Weighted Blanket",
+    "description": "Cooling weighted blanket for stress relief and better sleep.",
+    "price": 89.99,
+    "currency": "USD",
+    "image": "weighted-blanket.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "title": "Electric Screwdriver",
+    "description": "Cordless electric screwdriver with multiple bits.",
+    "price": 59.99,
+    "currency": "USD",
+    "image": "electric-screwdriver.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 23,
+    "title": "Smart Thermostat",
+    "description": "Wi-Fi enabled smart thermostat with energy-saving features.",
+    "price": 169.99,
+    "currency": "USD",
+    "image": "smart-thermostat.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "title": "Air Fryer",
+    "description": "Compact air fryer with rapid air circulation technology.",
+    "price": 99.99,
+    "currency": "USD",
+    "image": "air-fryer.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 25,
+    "title": "Portable Charger",
+    "description": "10,000mAh power bank with fast charging capabilities.",
+    "price": 29.99,
+    "currency": "USD",
+    "image": "portable-charger.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 26,
+    "title": "Desk Organizer",
+    "description": "Wooden desk organizer with multiple compartments for storage.",
+    "price": 44.99,
+    "currency": "USD",
+    "image": "desk-organizer.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 27,
+    "title": "Action Camera",
+    "description": "Waterproof action camera with 4K video recording.",
+    "price": 129.99,
+    "currency": "USD",
+    "image": "action-camera.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 28,
+    "title": "Smart Light Bulbs",
+    "description": "Pack of 4 smart light bulbs compatible with voice assistants.",
+    "price": 49.99,
+    "currency": "USD",
+    "image": "smart-light-bulbs.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 29,
+    "title": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+    "price": 69.99,
+    "currency": "USD",
+    "image": "electric-toothbrush.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "title": "Travel Mug",
+    "description": "Stainless steel travel mug with vacuum insulation.",
+    "price": 29.99,
+    "currency": "USD",
+    "image": "travel-mug.jpg",
+    "rating": 4.8
+  }
+]

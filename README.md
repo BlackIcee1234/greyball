@@ -1,4 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# E-commerce Product Listing
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app), featuring a modern e-commerce product listing interface with filtering and search capabilities.
+
+## Features
+
+- **Product Listing**: Display products in a responsive grid layout
+- **Search Functionality**: Real-time product search capability
+- **Product Filtering**: Filter products based on various criteria
+- **Redux State Management**: Efficient state management using Redux Toolkit
+- **Responsive Design**: Mobile-friendly interface with Tailwind CSS
+- **Modern UI**: Clean and intuitive user interface with gradient backgrounds
+
+## Known Issues
+
+- Loading state might briefly flash even when data is cached
+- Search and filter combinations might need optimization for large datasets
+
+## Tech Stack
+
+- Next.js 15.1.6
+- React 19.0.0
+- Redux Toolkit
+- Tailwind CSS
+- TypeScript
+- Jest for testing
 
 ## Getting Started
 
@@ -38,3 +63,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+## GitHub Repository
+
+[Add your GitHub repository link here]
